@@ -1,0 +1,6 @@
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/bin/Debug/oneSharedLink.exe
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/bin/Debug/oneSharedLink.pdb
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/obj/x86/Debug/oneSharedLink.csproj.AssemblyReference.cache
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/obj/x86/Debug/oneSharedLink.csproj.CoreCompileInputs.cache
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/obj/x86/Debug/oneSharedLink.exe
+/home/drewam/Desktop/Coding/SpotIt/oneSharedLink/oneSharedLink/obj/x86/Debug/oneSharedLink.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8B98E145-7B4F-48B6-A3F0-A408CDBB4AD4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="oneSharedLink/Card.cs">
+    <Files>
+      <File FileName="oneSharedLink/Program.cs" Line="4" Column="6" />
+      <File FileName="oneSharedLink/Deck.cs" Line="7" Column="30" />
+      <File FileName="oneSharedLink/Card.cs" Line="6" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="oneSharedLink" expanded="True">
+            <Node name="oneSharedLink" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.oneSharedLink PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
